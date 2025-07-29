@@ -1,49 +1,93 @@
-<h2 align="left">Nice to meet you, I'm Blacbrd!</h2>
 
-###
+<div align="center"
+     style="display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 20px;           /* space between items */
+            padding: 20px 0;     /* top/bottom padding */
+            ">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <!-- LANGUAGES CHART -->
+  <div style="flex: 1 1 300px; /* grow, shrink, base width */ 
+              max-width: 320px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
+      alt="languages graph"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+
+  <!-- ANIMATED GIF -->
+  <div style="flex: 1 1 300px;
+              max-width: 320px;">
+    <img
+      src="https://www.icegif.com/wp-content/uploads/icegif-6980.gif"
+      alt="ice animation"
+      style="width: 100%; height: auto;"
+    />
+  </div>
+
+  <!-- TOOL ICONS (WRAPPING ITSELF) -->
+  <div style="flex: 1 1 300px;
+              max-width: 600px;
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              gap: 12px;    /* space between icons */
+              align-items: center;">
+    <!-- repeat this <img> for each icon -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         alt="python"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+         alt="csharp"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         alt="java"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+         alt="opencv"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         alt="tensorflow"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+         alt="jupyter"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         alt="react"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         alt="javascript"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         alt="typescript"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         alt="html5"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         alt="css3"
+         style="width: 40px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
+         alt="godot"
+         style="width: 40px; height: auto;" />
+  </div>
+
+  <!-- LINKEDIN BADGE (OPTIONAL) -->
+  <div style="flex: 1 1 200px;
+              max-width: 240px;
+              display: flex;
+              justify-content: center;
+              align-items: center;">
+    <a href="https://www.linkedin.com/in/szymon-arciszewski/">
+      <img
+        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+        alt="LinkedIn"
+        style="width: 100%; height: auto;"
+      />
+    </a>
+  </div>
+
 </div>
-
-###
-
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/icegif-6980.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-</div>
-
-###
-
-<div align="left">
-  <p><a href="https://www.linkedin.com/in/szymon-arciszewski/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a></p>
-</div>
-
-###

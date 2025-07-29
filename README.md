@@ -22,7 +22,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&layout=compact&card_width=240&langs_count=6&theme=dark&hide_border=false"
       alt="Most Used Languages"
-      style="width: 100%; height: auto; display: block;"
+      style="width: 75%; height: auto; display: block;"
     />
   </div>
 

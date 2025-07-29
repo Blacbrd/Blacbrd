@@ -7,12 +7,12 @@
             padding: 20px 0;     /* top/bottom padding */
             ">
 
-  <div style="flex: 1 1 300px; /* grow, shrink, base width matches GIF */
+  <div style="flex: 1 1 300px;
               max-width: 320px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=240&langs_count=6&theme=dark&hide_border=false"
       alt="languages graph"
-      style="width: 100%; height: auto;"
+      style="width: 80%; height: auto;"
     />
   </div>
 

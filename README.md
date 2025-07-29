@@ -1,4 +1,3 @@
-
 <div align="center"
      style="display: flex;
             flex-wrap: wrap;
@@ -8,9 +7,9 @@
             padding: 20px 0;     /* top/bottom padding */
             ">
 
-  <!-- LANGUAGES CHART -->
-  <div style="flex: 1 1 100px; /* grow, shrink, base width */ 
-              max-width: 120px;">
+  <!-- LANGUAGES CHART (now same size as GIF) -->
+  <div style="flex: 1 1 300px; /* grow, shrink, base width matches GIF */
+              max-width: 320px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
       alt="languages graph"
@@ -36,7 +35,6 @@
               justify-content: center;
               gap: 12px;    /* space between icons */
               align-items: center;">
-    <!-- repeat this <img> for each icon -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
          alt="python"
          style="width: 40px; height: auto;" />

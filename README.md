@@ -75,19 +75,4 @@
          style="width: 40px; height: auto;" />
   </div>
 
-  <!-- LINKEDIN BADGE (OPTIONAL) -->
-  <div style="flex: 1 1 200px;
-              max-width: 240px;
-              display: flex;
-              justify-content: center;
-              align-items: center;">
-    <a href="https://www.linkedin.com/in/szymon-arciszewski/">
-      <img
-        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-        alt="LinkedIn"
-        style="width: 100%; height: auto;"
-      />
-    </a>
-  </div>
-
 </div>

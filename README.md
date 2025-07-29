@@ -9,8 +9,8 @@
             ">
 
   <!-- LANGUAGES CHART -->
-  <div style="flex: 1 1 150px; /* grow, shrink, base width */ 
-              max-width: 170px;">
+  <div style="flex: 1 1 100px; /* grow, shrink, base width */ 
+              max-width: 120px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false"
       alt="languages graph"

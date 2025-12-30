@@ -15,7 +15,7 @@
             align-items: flex-start;
             gap: 20px;
             padding: 20px 0;">
-
+  <!--
   <div style="
       flex: 1 1 45%;
       max-width: 320px;
@@ -25,7 +25,7 @@
       alt="Most Used Languages"
       style="width: 75%; height: auto; display: block;"
     />
-  </div>
+  </div> -->
 
   <div style="
       flex: 1 1 45%;
